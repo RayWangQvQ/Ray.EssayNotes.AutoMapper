@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ray.EssayNotes.AutoMapper", "Ray.EssayNotes.AutoMapper\Ray.EssayNotes.AutoMapper.csproj", "{036F6E83-DB98-48B4-99A5-8CEC7E93B845}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ray.Infrastructure", "Ray.Infrastructure\Ray.Infrastructure.csproj", "{AB3DB5C5-3EA1-4FF7-8FB4-73A18475F954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{036F6E83-DB98-48B4-99A5-8CEC7E93B845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036F6E83-DB98-48B4-99A5-8CEC7E93B845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036F6E83-DB98-48B4-99A5-8CEC7E93B845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036F6E83-DB98-48B4-99A5-8CEC7E93B845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB3DB5C5-3EA1-4FF7-8FB4-73A18475F954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3DB5C5-3EA1-4FF7-8FB4-73A18475F954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3DB5C5-3EA1-4FF7-8FB4-73A18475F954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3DB5C5-3EA1-4FF7-8FB4-73A18475F954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {063E60CC-6DBA-499F-A560-45AF716473B9}
+	EndGlobalSection
+EndGlobal
