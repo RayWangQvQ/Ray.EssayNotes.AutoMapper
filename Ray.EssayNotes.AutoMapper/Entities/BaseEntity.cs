@@ -6,7 +6,7 @@ namespace Ray.EssayNotes.AutoMapper.Entities
 {
     public abstract class BaseEntity
     {
-        public long Id { get; set; }
+        public long Id { get; protected set; }
 
         public DateTime CreateTime { get; set; }
         public long Creator { get; set; }
